@@ -1767,9 +1767,9 @@ section.lazy-placeholder:after {
   color: #ba7e36;
 }
 .cid-soJCL3usfL {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #ffda73;
 }
 .cid-soJCL3usfL .google-map {
   height: 25rem;
@@ -1824,7 +1824,7 @@ section.lazy-placeholder:after {
 .cid-soJCL3usfL .line {
   height: 3px;
   width: 60px;
-  background: #000000;
+  background: #296111;
   margin: auto;
   margin-bottom: 1rem;
   margin-top: 1rem;
