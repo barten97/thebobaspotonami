@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "The Boba Spot on AMI",
-    "currentPage": "index.html",
+    "currentPage": "about-us.html",
     "theme": {
       "name": "restaurantm4",
       "title": "RestaurantM4",
@@ -1298,7 +1298,7 @@
       "settings": {
         "title": "About The Boba Spot on AMI | Holmes Beach | Anna Maria Island FL",
         "order": 1,
-        "meta_descr": ""
+        "meta_descr": "Experience pure joy at The Boba Spot on AMI, located on the way to the beach on picturesque Ana Maria Island, Florida. Our café is a paradise for both boba tea lovers and donut enthusiasts. Indulge in our delightful creations that blend the vibrant spirit of island life with the unique and delectable flavors of boba tea. Come join us and immerse yourself in pure bliss at The Boba Spot on AMI!"
       },
       "components": [
         {
